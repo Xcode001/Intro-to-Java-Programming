@@ -17,7 +17,7 @@ public class Exercise_03_27 {
 		double y = input.nextDouble();
 
 		// Determine whether the point is inside the triangle
-		// getting the point of ina line that starts at point 
+		// getting the point of a line that starts at point... 
 
 		// Get the intersecting point with the hypotenuse side of the triangle
 		// of a line that starts and points (0, 0) and touches the user points
