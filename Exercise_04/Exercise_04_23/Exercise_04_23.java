@@ -27,7 +27,7 @@ public class Exercise_04_23 {
 
 		// Display payroll statement
 		double grossPay, federal, state, totalDeduction;
-		System.out.printf(
+		System.out.print(
 			"Employee Name: " + name + 
 			"\nHours Worked: " + hoursWorked +
 			"\nPay Rate: $" + hourlyPayRate +
